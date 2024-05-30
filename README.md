@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Flutter and Mountains**
 
-- 📫 How to reach me **santoshbhagel321@gmail.com**
+- 📫 How to reach me *santoshbhagel321@gmail.com*
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
