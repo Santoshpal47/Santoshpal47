@@ -13,7 +13,7 @@
 <p align="center">
 <a href="https://linkedin.com/in/santosh-pal-712360229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santosh-pal-712360229" height="30" width="40" /></a>
 <a href="https://instagram.com/santosh_pal.47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="santosh_pal.47" height="30" width="40" /></a>
-<a href="santoshbhagel321@gmail.com" target="blank"><img align="center" src=" https://w7.pngwing.com/pngs/799/918/png-transparent-mail-google-gmail-google-s-logo-icon.png" alt="santosh_pal.47" height="30" width="40" /></a>
+
 </p>
 
 
