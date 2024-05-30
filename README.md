@@ -38,10 +38,10 @@
     <img src="https://firebasestorage.googleapis.com/v0/b/buyon-6d24f.appspot.com/o/icons8-node-js.svg?alt=media&token=6a1b16a3-264f-4d2b-8ed1-c28a2031a011" alt="nodejs" width="40" height="40" style="margin-right: 10px;"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="margin-right: 10px;"/>
+    <img src="https://firebasestorage.googleapis.com/v0/b/buyon-6d24f.appspot.com/o/icons8-mongo-db-96.png?alt=media&token=75d8954b-90e8-425b-829d-1f83cf35152c" alt="mongodb" width="40" height="40" style="margin-right: 10px;"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="margin-right: 10px;"/>
+    <img src="https://firebasestorage.googleapis.com/v0/b/buyon-6d24f.appspot.com/o/icons8-mysql.svg?alt=media&token=8a4db76a-9309-4437-8fdf-bc427e235d18" alt="mysql" width="40" height="40" style="margin-right: 10px;"/>
   </a>
    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://firebasestorage.googleapis.com/v0/b/buyon-6d24f.appspot.com/o/icons8-express-js.svg?alt=media&token=400be470-2403-4575-a1cf-a95103a39e48" alt="express" width="40" height="40" style="margin-right: 10px;"/>
