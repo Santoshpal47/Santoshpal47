@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Santosh</h1>
 <h3 align="center">Full Stack App Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=santoshpal47&label=Profile%20views&color=0e75b6&style=flat" alt="santoshpal47" /> </p>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Santoshpal47&label=Profile%20Views&color=12&icon=0&pretty=false" />
+</a>
 
 - 💬 Ask me about **Flutter and Mountains**
 
