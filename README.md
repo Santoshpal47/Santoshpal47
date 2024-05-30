@@ -43,8 +43,8 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="margin-right: 10px;"/>
   </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" style="margin-right: 10px;"/>
+   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://firebasestorage.googleapis.com/v0/b/buyon-6d24f.appspot.com/o/icons8-express-js.svg?alt=media&token=400be470-2403-4575-a1cf-a95103a39e48" alt="express" width="40" height="40" style="margin-right: 10px;"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="margin-right: 10px;"/>
