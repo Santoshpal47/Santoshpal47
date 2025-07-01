@@ -13,7 +13,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/santosh-pal-712360229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santosh-pal-712360229" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/santosh-pal-08b0bb370" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santosh-pal-712360229" height="30" width="40" /></a>
 <a href="https://instagram.com/santosh_pal.47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="santosh_pal.47" height="30" width="40" /></a>
 
 </p>
