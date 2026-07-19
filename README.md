@@ -7,7 +7,7 @@
   </a>
 </div>
 
-- 💬 Ask me about **Flutter and Mountains**
+- 💬 Ask me about **App Dev and Mountains**
 
 - 📫 How to reach me *santoshbhagel321@gmail.com*
 
